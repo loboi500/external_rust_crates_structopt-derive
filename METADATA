@@ -1,19 +1,3 @@
-name: "structopt-derive"
-description: "Parse command line argument by defining a struct, derive crate."
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://crates.io/crates/structopt-derive"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://static.crates.io/crates/structopt-derive/structopt-derive-0.4.14.crate"
-  }
-  version: "0.4.14"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2020
-    month: 11
-    day: 30
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3577b694494872fea3475673d554328e10f30900603956f2a82ef63c3565ec4c
+size 438
